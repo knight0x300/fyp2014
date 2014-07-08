@@ -5,5 +5,5 @@ RMCJ Nugegoda
 PKR Roshan
 NR Samarasekara
 
-Sports Analysis Using Efficient Object Tracking (in parallel with developing a feature selection framework for obkect tracking.)
+Sports Analysis Using Efficient Object Tracking (in parallel with developing a feature selection framework for object tracking.)
 =======
